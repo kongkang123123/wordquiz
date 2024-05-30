@@ -21,13 +21,16 @@ No installation is required. You just can enjoy the game after running the progr
 <h2>❓ How to use the project</h2>
 (Project incomplete)
 • Run the project
+
 - choose the game mode
+- 
 <ol>
   <li>Basic mode</li>
   <li>Wrong answer note</li>
   <li>Time attack</li>
   <li>Filling blank space</li>
 </ol>
+
 - Enjoy the word quiz game
 
 
