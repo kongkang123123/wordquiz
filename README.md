@@ -25,7 +25,7 @@ No installation is required. You just can enjoy the game after running the progr
 
 - choose the game mode
   
-- <Mode>
+- -Mode-
   
 <ol>
   <li>Basic mode</li>
