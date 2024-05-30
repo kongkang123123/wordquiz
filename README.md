@@ -23,6 +23,7 @@ No installation is required. You just can enjoy the game after running the progr
 • Run the project
 
 - choose the game mode
+- <Mode>
   
 <ol>
   <li>Basic mode</li>
