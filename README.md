@@ -14,7 +14,7 @@ While creating this program, our team was able to look at the collaboration proc
 
 
 <h2>💻 How to install and run the project</h2>
-• step-by-step instructions
+No installation is required. You just can enjoy the game after running the program.
 
 
 
