@@ -22,7 +22,7 @@ While creating this program, our team was able to look at the collaboration proc
 
 • instructions and examples (with screenshots)
 
-<h2>Credits</h2>
+<h2> ☀️vCredits </h2>
 
 **Reference Provider**
 - prof.Hong Shin: @hongshin 
