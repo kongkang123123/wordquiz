@@ -22,7 +22,7 @@ No installation is required. You just can enjoy the game after running the progr
 
 • instructions and examples (with screenshots)
 
-<h2> ☀️Credits </h2>
+<h2> 🤝 Credits </h2>
 
 **Reference Provider**
 - prof.Hong Shin: @hongshin 
